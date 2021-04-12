@@ -1,4 +1,4 @@
 # mytest
 just test
 
-[flow chart](/2020CPMD_uml.pptx)
+[flow chart](/2020CPMD_uml.pdf)
